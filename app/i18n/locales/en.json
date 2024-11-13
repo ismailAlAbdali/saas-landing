@@ -1,0 +1,108 @@
+{
+  "common": {
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "features": "Features",
+    "pricing": "Pricing",
+    "testimonials": "Testimonials",
+    "partners": "Partners",
+    "readMore": "Read more",
+    "skip": "Skip",
+    "about": "About",
+    "blog": "Blog",
+    "careers": "Careers",
+    "contact": "Contact",
+    "documentation": "Documentation",
+    "updates": "Updates",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "security": "Security",
+    "cookies": "Cookies",
+    "copyright": "All rights reserved"
+  },
+  "hero": {
+    "title": "Transform Your Business with Our SaaS Solution",
+    "subtitle": "Streamline your workflow, boost productivity, and scale your business with our comprehensive suite of tools.",
+    "announcement": "Announcing our next-gen platform.",
+    "readMore": "Read more"
+  },
+  "features": {
+    "title": "Everything you need",
+    "subtitle": "Powerful features for modern businesses",
+    "description": "Our platform provides all the tools you need to succeed in today's competitive landscape.",
+    "performance": {
+      "title": "Lightning Fast Performance",
+      "description": "Experience blazing-fast load times and real-time updates across all your devices."
+    },
+    "security": {
+      "title": "Enterprise Security",
+      "description": "Bank-grade encryption and security measures to keep your data safe and secure."
+    },
+    "analytics": {
+      "title": "Advanced Analytics",
+      "description": "Gain valuable insights with our comprehensive analytics and reporting tools."
+    },
+    "support": {
+      "title": "Premium Support",
+      "description": "24/7 dedicated support team to help you succeed every step of the way."
+    }
+  },
+  "pricing": {
+    "title": "Choose the right plan for your business",
+    "monthly": "/month",
+    "starter": {
+      "name": "Starter",
+      "description": "Perfect for small teams and startups.",
+      "features": [
+        "Up to 5 team members",
+        "5GB storage",
+        "Basic analytics",
+        "Email support",
+        "API access"
+      ]
+    },
+    "professional": {
+      "name": "Professional",
+      "description": "Ideal for growing businesses.",
+      "features": [
+        "Up to 20 team members",
+        "50GB storage",
+        "Advanced analytics",
+        "Priority support",
+        "API access",
+        "Custom integrations",
+        "Team collaboration tools"
+      ]
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "description": "For large organizations.",
+      "features": [
+        "Unlimited team members",
+        "Unlimited storage",
+        "Custom analytics",
+        "24/7 phone support",
+        "Advanced API access",
+        "Custom integrations",
+        "Team collaboration tools",
+        "Dedicated account manager",
+        "Custom training"
+      ]
+    }
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "subtitle": "Don't just take our word for it - hear from our satisfied customers"
+  },
+  "footer": {
+    "description": "Transform your business with our powerful SaaS platform.",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "social": {
+      "twitter": "Follow us on Twitter",
+      "github": "View our GitHub",
+      "linkedin": "Connect on LinkedIn"
+    }
+  }
+}
